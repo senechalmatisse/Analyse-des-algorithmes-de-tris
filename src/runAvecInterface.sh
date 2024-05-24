@@ -1,0 +1,1 @@
+python3 -m ComparaisonTri.vue.FenetrePrincipale
