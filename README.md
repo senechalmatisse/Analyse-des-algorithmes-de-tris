@@ -1,5 +1,5 @@
 ## Description du Projet
-Il existe tout un bestiaires d'algorithmes de tri, certains peu efficaces, d'autres plus performant, d'autres encore dont la performance dépend de la structure des données à trier. L'objectif de ce projet est d'implémenter toute une collection de ces algorithmes et de visualiser leur exécution. Au-delà de cet aspect, nous pouvons nous demander quelle est l'efficacité (nombre de comparaisons, accès aux données, temps d'exécution total) de ces algorithmes en fonction du désordre des données en entrée (quantité et répartition) ? Il s'agira alors d'implémenter un générateur de données paramétré par un niveau de désordre et d'expérimenter les algorithmes pour en tirer une analyse comparative.
+Il existe tout un bestiaires d'algorithmes de tri, certains peu efficaces, d'autres plus performant, d'autres encore dont la performance dépend de la structure des données à trier. Ce projet a pour but d'implémenter un générateur de données paramétré par un niveau de désordre et d'expérimenter les algorithmes pour en tirer une analyse comparative.
  
 ## Compilation du Projet
 
